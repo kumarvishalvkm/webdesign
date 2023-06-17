@@ -133,7 +133,7 @@ ul li a:hover {
 .content .cn {
     width: 160px;
     height: 40px;
-    background: red;
+    background: white;
     border: none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -145,12 +145,12 @@ ul li a:hover {
 
 .content .cn a {
     text-decoration: none;
-    color: white;
+    color: black;
     transition: .3s ease;
 }
 
 .cn:hover {
-    background-color: white;
+    background-color: red;
 }
 
 .content span {
@@ -175,7 +175,7 @@ ul li a:hover {
     text-align: center;
     color: white;
     font-size: 22px;
-    background-color: white;
+    background-color: red;
     border-radius: 10px;
     margin: 2px;
     padding: 8px;
